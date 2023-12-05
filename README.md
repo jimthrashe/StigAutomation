@@ -1,8 +1,9 @@
 # StigAutomation
-Scripts for automating STIGs in bash and Python
+Script for automating STIGs in bash and Python
 
 
-
+############################################
+#Stig.sh
 This script is Used to check and automate a couple stigs within the Ubuntu 20.04 LTS Stig listing. 
 
 Useage is run the program as is after giving permissions ./Stig.sh other options are to provide the argument directly into the command line
