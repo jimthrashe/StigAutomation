@@ -11,7 +11,11 @@ Useage is run the program as is after giving permissions ./Stig.sh other options
 Usage: $0 [category]
 Options:"
 #-h, --help   Display this help message
+
+
 #category     Specify the category to execute (1, 2, 3, or 4)
+
+
 #If not provided, the script will prompt for the category.
 
 ./Stigs.sh 
